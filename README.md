@@ -5,6 +5,16 @@ Implementation of the problem originally proposed by Talha Bin Monir
 (230041238) in Assignment 3: *"Design of a Cost-Efficient, Fault-Tolerant
 Communication Network for Disaster-Relief Camps."*
 
+## Contributors
+
+| Name | ID |
+|---|---|
+| S. M. Solaiman Kalam | 230041254 |
+| Talha Bin Monir | 230041238 |
+| Md. Shihab Alam Khan | 230041236 |
+
+![Main page of the GUI](misc/img/mainpage.png)
+
 ## What this is
 
 After a disaster, relief camps need a temporary wireless relay network.
