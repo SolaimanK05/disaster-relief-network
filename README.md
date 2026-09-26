@@ -66,13 +66,13 @@ disaster_relief_network/
 
 ## How to run
 
-**Quick text demo** (good for a fast sanity check or narrating the video):
+**Quick text demo**:
 
 ```bash
 python cli_demo.py
 ```
 
-**Interactive visual demo** (recommended for the required demo video):
+**Interactive visual demo**:
 
 ```bash
 python gui_app.py
